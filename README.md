@@ -6,8 +6,7 @@ This project pertains to the classification of news articles into their correspo
 
 ## Classification reports on test set
 ### Random Forest
-
-![rf_re](https://user-images.githubusercontent.com/43222349/58753781-7edcc500-8492-11e9-8deb-8580639d6116.png)
+![rf_re](https://user-images.githubusercontent.com/43222349/58753807-dbd87b00-8492-11e9-83c0-78dc5c017edb.jpg)
 
 ### Multinomial Naive Bayes
 ![mnb](https://user-images.githubusercontent.com/43222349/58753772-4fc65380-8492-11e9-864d-c36cb95c541b.png)
